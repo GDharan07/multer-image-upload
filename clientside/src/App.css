@@ -1,0 +1,43 @@
+.App{
+  margin: 20px;
+  padding: 10px;
+  
+}
+form{
+  margin-top: 20px;
+  margin-left: 430px;
+  background-color: aqua;
+  width: 250px;
+  padding: 10px;
+  border-radius: 10px;
+  align-items: center;
+}
+#form-btn{
+  margin-left: 70px;
+  border-radius: 10px;
+  background-color: blueviolet;
+  width: 70px;
+}
+img{
+  height: 300px;
+  width: 400px;
+  margin-top: 30px;
+  margin-left: 350px;
+  border-radius: 10px;
+}
+#modify{
+  padding: 10px;
+  width: 400px;
+  margin-left: 350px;
+  margin-top: 5px;
+ 
+  
+}
+#del-btn{
+  margin-top: 5px;
+  margin-left: 150px;
+  width: 70px;
+  border-radius: 5px;
+  background-color: blueviolet;
+
+}
